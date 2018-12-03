@@ -1,0 +1,20 @@
+((lp0
+S'C'
+p1
+aS'Perl'
+p2
+aS'Python'
+p3
+aS'Lisp'
+p4
+a(lp5
+S'Newton'
+p6
+aS'Laplace'
+p7
+aS'Einstein'
+p8
+aS'De Broglie'
+p9
+atp10
+.

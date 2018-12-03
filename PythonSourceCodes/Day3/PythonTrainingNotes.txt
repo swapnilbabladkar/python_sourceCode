@@ -1,0 +1,144 @@
+Day1:
+====
+Python is high-level, interpreted, object-oriented, extendable language.
+Guido van rossum (around 1990)
+IDLE: Integrated Development Learning Env
+
+Striking Features:
+===================
+No {} . Instead there are :
+Indentation is of great importance in Python.
+Rich in custom modules.
+Comma(,) is used for concatenation.
++ is used for concatenation as well.
+Comment is provided with #
+30 keywords in Python
+
+Types of variables:
+==================
+Number
+String
+Tuple       IMMUTABLE Array of data     ()
+List		Mutable Array of Data		[]
+Dictionary	Key-Value pair				{}
+
+Number:
+======
+Int				-2^15  -  2^15 -1 
+Long			-2^31  - 2^31 - 1 
+Float
+Complex
+
+String:
+======
+Slice
+	obj[<start_index>:<end_index + 1>]
+Repeatation using *
+Extract
+
+Operators:
+=========
+Arithmetic Operators: + - * / %  // (floor division)  **(Raised to the power)
+Assignment Operators: = +=  -=  *=  /=  //=  %=
+Comparison Operators: ==  !=  <>  > < >= <=
+Logical operator: and   or not
+Bitwise operator: |  &  ^  ~
+Membership Operators: in     not in 
+Identity Operators:  is    not is 
+
+Precedence Chart:
+**
+* / % //
++ - 
+
+a=1100
+b=0101
+  1101 ( a|b = 13)
+  1001 (a^b = 9) 
+
+
+Condition Checking:
+=================
+if(expression):
+    statement 1
+	statement 2 
+else:
+	Statement 3 
+
+if <cond1>:
+
+elif <cond2>:
+
+elif <cond3>:
+
+else:
+
+Looping Construct:
+=================
+while
+do..while 
+for 
+pass (NOP)
+continue
+break
+
+while(condition):
+    statements
+else:
+
+for i in range(n):
+	<statements>
+else:
+
+
+
+
+Functions:
+==========
+Simplest Function:
+def <func_name>(argument list):
+	function_body 
+	return <val>
+
+Function having default arg value:
+def ABC(arg1,arg2=PI):
+	function_body 
+	return <val>
+
+ABC(12)
+ABC(12,22/7)
+	
+Function returning multiple values:
+def ABC(arg1,arg2=PI):
+	function_body 
+	return <val1>,<val2>
+	
+v1,v2 = ABC(12,3.1415)
+
+Function accepting arbitrary number of values:
+def ABC(arg1,*argN):
+	function_body 
+	return <val>
+	
+v = ABC(1,2.5,'C','SAURAV')
+
+
+Arguments are passed by call-by-reference.
+We can prevent the called function from changing mutable datatypes by passing a copy of it using [:]
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

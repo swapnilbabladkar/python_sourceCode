@@ -1,0 +1,49 @@
+Session 1-2:
+===========
+	Overview 
+	Getting Python 
+	Setting it up 
+	Interactive mode programming
+	Creating Python programs 
+	Variable Types
+	Basic Operators
+	Basic Math 
+	Decision Control 
+	Conditional Statements 
+	Loops 
+	Sequences 
+	Numbers
+	Strings
+	Lists
+	Tuples
+	Dictionary
+	Exercise Programs
+
+Session 3-4:
+===========
+	Datastuctures
+	Date & Time
+	Functions
+	Modules
+
+Session 5-6:
+===========
+	Creating custom modules
+	Lambda Expressions
+	Files I/O
+	Errors & Exceptions
+	Threading
+	
+Session 7:
+=========
+	Object-oriented programming 
+	Regular Expressions
+	Database Access
+	Unit Testing
+	XML Parsing
+	Demo of some interesting applications
+	
+Session 8:
+==========
+	Advanced Tutorials Introduction(Data Mining, Image Processing, etc. using Python)
+	Evaluation Test (MCQ)
